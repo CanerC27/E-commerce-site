@@ -1,0 +1,30 @@
+{
+  "name": "modera-ecommerce",
+  "version": "1.0.0",
+  "description": "MODERA — React ile yazılmış frontend e-ticaret demosu",
+  "author": "Caner Celik",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CanerC27/E-commerce-site.git"
+  },
+  "homepage": "https://github.com/CanerC27/E-commerce-site#readme",
+  "bugs": {
+    "url": "https://github.com/CanerC27/E-commerce-site/issues"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.3"
+  }
+}
